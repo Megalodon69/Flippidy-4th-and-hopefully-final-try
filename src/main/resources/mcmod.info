@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "flippidy",
+    "name": "Flippidy",
+    "description": "Ein automatischer Bazaar-Flipper für Hypixel Skyblock. Proof of Concept für die Admins.",
+    "version": "1.0",
+    "mcversion": "1.8.9",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Flippidy Team"],
+    "credits": "Hypixel Skyblock und CoflNet für die APIs",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
